@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "399bf3878eef76092b52b8521c539604",
+    "pageAccessToken": "EAADheOPi9pcBAPjRDHLLPaiyjGDWLxxaNzMLiN9by9HgsAOMPuOXegCMw4daXZBhg4AZBFWXRaKJsfZC8t7ZA6p4MHk6kA6b8BHMRDbPoK2WeZBl29NSofgNQZCq4sZBfZCu5cP9oVW7crgkJGZCJfCB2rmNjVEgQSg3PbTsvY2V8BwZDZD",
+    "validationToken": "nathantedgui237",
+    "serverURL": "https://coach-237.herokuapp.com/"
 }
